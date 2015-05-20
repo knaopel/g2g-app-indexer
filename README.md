@@ -1,2 +1,2 @@
-# g2g--app-indexer
+# g2g-app-indexer
 Indexer for G2G Apps
